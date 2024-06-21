@@ -19,7 +19,7 @@ This repository contains a series of examples and exercises designed to help you
 
 Before you begin, ensure you have the following installed:
 
-- [Terraform](https://www.terraform.io/downloads.html) (version 0.14 or later)
+- [Terraform](https://www.terraform.io/downloads.html) 
 - [Git](https://git-scm.com/downloads)
 - A text editor (e.g., VSCode, Sublime Text)
 
